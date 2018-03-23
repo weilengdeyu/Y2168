@@ -8,6 +8,6 @@ public class SpringbootFirstApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootFirstApplication.class, args);
-		System.out.println();
+		System.out.println("branch1");
 	}
 }
